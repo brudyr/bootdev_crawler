@@ -1,0 +1,23 @@
+{
+  "name": "bootdev_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brudyr/bootdev_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brudyr/bootdev_crawler/issues"
+  },
+  "homepage": "https://github.com/brudyr/bootdev_crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
